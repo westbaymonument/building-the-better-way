@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Building the Better Way
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://headspringlabs.com/building-the-better-way/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://headspringlabs.github.io/building-the-better-way/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: headspring
 github_username:  HeadspringLabs
 
@@ -30,7 +30,7 @@ aux_links:
   "Headspring Labs":
     - "//github.com/HeadspringLabs"
 heading_anchors: true
-footer_content: "Copyright &copy; 2020 Headspring. <a href=\"http://github.com/HeadspringLabs/\">Edit This Document</a>"
+footer_content: "Copyright &copy; 2020 Headspring. <a href=\"https://github.com/HeadspringLabs/\">Edit This Document</a>"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
