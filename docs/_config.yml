@@ -21,7 +21,7 @@ github_username:  HeadspringLabs
 
 # Build settings
 markdown: kramdown
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 # Just the Docs Settings
 logo: https://headspring.com/wp-content/uploads/2020/03/Headspring-Logo-Primary.png
