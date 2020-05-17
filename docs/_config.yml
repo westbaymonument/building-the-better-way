@@ -30,7 +30,7 @@ aux_links:
   "Headspring Labs":
     - "//github.com/HeadspringLabs"
 heading_anchors: true
-footer_content: "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/80x15.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Copyright &copy; 2020 Headspring. <a href=\"https://github.com/HeadspringLabs/\">Edit This Document</a>"
+footer_content: "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/80x15.png\" /></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Copyright &copy; 2020 Headspring."
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
