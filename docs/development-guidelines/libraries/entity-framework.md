@@ -46,7 +46,7 @@ When we violate this rule, we can for instance cause unintended behavior, such a
 
 In long-running processes, limit the scope and lifetime of entities fetched from a `DbContext`, so that you avoid accidentally using them in the wrong `DbContext` later.
 
-In tests, follow the guidance in [Testing Standards](http://localhost:4000/development-guidelines/testing/) to avoid the need to manually deal with DbContexts directly.
+In tests, follow the guidance in [Testing Standards](/development-guidelines/testing/) to avoid the need to manually deal with DbContexts directly.
 
 ### **DO NOT** use long-lived `DbContext`s
 {: .text-red-300 }
