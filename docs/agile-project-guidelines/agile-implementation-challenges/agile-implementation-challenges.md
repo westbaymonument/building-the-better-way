@@ -8,11 +8,11 @@ nav_order: 1
 # Agile Implementation: Adoption and Challenges
 {:.no_toc}
 
-In many companies, it is often the case that the only practice that’s consistent is that no practice is consistently implemented. Every company, department, and team has its own internal languages and shared histories; its own ways of working that are tailored to their culture. When changes are made to these aspects of a company, which are considered sacred— especially when instituted abruptly or without the right planning and communication—the results can range from unfortunate to disastrous. More often than not, the process itself is implicated. 
+In many companies, it is often the case that the only practice that’s consistent is that no practice is consistently implemented. Every company, department, and team has its own internal languages and shared histories; its own ways of working that are tailored to their culture. When changes are made to these aspects of a company, which are considered sacred— especially when instituted abruptly or without the right planning and communication— the results can range from unfortunate to disastrous. More often than not, the process itself is implicated. 
 
 What people forget in the aftermath is that the process doesn’t choose itself: Companies create these environments, and make the decisions that lead to these results. The methodology chosen might not work out, but is it because the practices themselves are terrible, or because the wrong fit for a given project or company is implemented? Agile methodologies frequently become the scapegoat for any number of failures, and as a result, “agile” is determined to be the problem. 
 
-Here, we aim to identify and explore the most common explanations companies give for Agile failing upon arrival, and uncover potential root causes for a company’s split from Agile. As mentioned earlier, no practice is truly consistent between organizations—it’s nearly impossible to drop any major operational change on a company and expect it to be implemented flawlessly without taking this into consideration. 
+Here, we aim to identify and explore the most common explanations companies give for Agile failing upon arrival, and uncover potential root causes for a company’s split from Agile. As mentioned earlier, no practice is truly consistent between organizations— it’s nearly impossible to drop any major operational change on a company and expect it to be implemented flawlessly without taking this into consideration. 
 
 - TOC
 {:toc}
