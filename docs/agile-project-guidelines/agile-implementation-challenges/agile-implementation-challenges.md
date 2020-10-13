@@ -133,7 +133,7 @@ Another common meeting is daily standup. This ceremony of Scrum keeps everyone o
 - If guests are attending standup that aren’t on the team, are they aware that their role is that of an observer first?
 - Is everyone on the team able to get through their own standup items, and are tangents put on hold for follow-up after the entire team has gone? 
 
-When meetings become inefficient, remember that Agile Scrum ceremonies are for the benefit of— and owned by— the team. As such, the team always has the power to change their format.
+When meetings become inefficient, remember this: Agile Scrum ceremonies are for the benefit of, and owned by, the team. As such, the team always has the power to change their format.
 
 ### Tips for maintaining engagement in Scrum team meetings
 
