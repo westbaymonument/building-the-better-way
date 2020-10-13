@@ -141,7 +141,7 @@ Setting expectations for participation is a critical step. Ignoring this can tur
 
 - **DO** listen to team members and their needs 
 {: .text-green-100 }
-- **DO** align with leadership on delivery expectations and practices (see Chalenge 1 above!)
+- **DO** align with leadership on delivery expectations and practices (see Challenge 1 above!)
 {: .text-green-100 }
 - **DO** work with the team to refine practices, and revisit regularly
 {: .text-green-100 }
