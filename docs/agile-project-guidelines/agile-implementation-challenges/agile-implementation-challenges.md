@@ -66,8 +66,8 @@ Many encounter this exact scenario in their careers: a plan is delivered to a sm
 
 The roles within an organization to be included in a RACI matrix may vary from one implementation to the next, but often include members of software development or engineering teams, R&D department members, and executive team, depending on the breadth and scale of the rollout.
 
--Form a RACI matrix in a spreadsheet, with roles as column headers and critical pre- and post-Agile methodology rollout actions as row headers
--Mark each box of the grid as it intersects with a role and an action with an R, A, C, or I depending on the appropriate level of communication for that individual
+- Form a RACI matrix in a spreadsheet, with roles as column headers and critical pre- and post-Agile methodology rollout actions as row headers
+- Mark each box of the grid as it intersects with a role and an action with an R, A, C, or I depending on the appropriate level of communication for that individual
 
 2. **Develop a communication plan that extends from pre-kickoff through execution**
 
