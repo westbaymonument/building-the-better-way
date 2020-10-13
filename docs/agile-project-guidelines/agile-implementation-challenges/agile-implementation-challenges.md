@@ -151,7 +151,7 @@ Setting expectations for participation is a critical step. Ignoring this can tur
 {: .text-yellow-300 }
 - **AVOID** meetings that provide little-to-no team value
 {: .text-red-300 }
-- **AVOID** processes that don't work for the sake of appeasing leadership
+- **AVOID** continuation of ineffective processes solely for the sake of appeasing leadership
 {: .text-red-300 }
 - **AVOID** mandating that the team work in ways that ultimately slow them down
 {: .text-red-300 }
