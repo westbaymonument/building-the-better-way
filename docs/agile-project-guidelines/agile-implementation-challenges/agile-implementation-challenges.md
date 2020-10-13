@@ -48,12 +48,12 @@ Here’s a framework to guide the construction of a strong and viable business c
 ### Proposal to the team and plan for execution
 
 - **Timeline:** What is the projected timeline of events and milestones?
-- **Up Front Contract:** The team member bringing forth the business case should state the purpose and outcome of the presentation upfront so that those listening know what the specific ask is. (i.e., inform, update, decision-ing, feedback review, etc.). Make a clear request of the team—what is needed today?
+- **Up Front Contract:** The team member bringing forth the business case should state the purpose and outcome of the presentation upfront so that those listening know what the specific ask is. (i.e., inform, update, decide, feedback review, etc.). Make a clear request of the team— what is needed today?
 - **Vision Check:** Use VTO and culture to guide decisions. How does this tie back to vision and goals? Does it move the company closer to where it is going?
 
 Business cases themselves are often highly specific and detailed, but the presentation of the information is usually set at a higher level. No matter which route you go, know your audience and tailor the presentation of your business case accordingly. More often than not, an executive audience will prefer brevity: direct communication of your plan without bells and whistles. If you know the executive team wants supplemental information to review at their leisure, create a business case presentation with appendix slides at the end. If some of your more detail-oriented attendees have questions during the presentation, you can jump down to these appendix slides as needed.
 
-With these thoughts in mind, take note: *Nothing will kill the adoption of Agile—or any major organizational shift—faster than a poorly-executed and under-communicated rollout*, regardless of a company’s size or distribution. Not only will a failed Agile rollout flatten any present efforts, but it will likely poison the well for future attempts.
+With these thoughts in mind, take note: *Nothing will kill the adoption of Agile— or any major organizational shift— faster than a poorly-executed and under-communicated rollout*, regardless of a company’s size or distribution. Not only will a failed Agile rollout flatten any present efforts, but it will likely poison the well for future attempts.
 
 ### Up your communication rollout game
 Do you remember the game Telephone? One person thinks of a phrase and whispers it to the next person in a line, and so on until the last person in the line relates the phrase as he or she heard it. More often than not, the phrase is distorted, and frequently into something not even remotely resembling the original. More devious participants may intentionally change the statement into something they prefer instead *(for shame!)*. Others may just forget portions of the phrase and pass on only what they remember, or paraphrase and include only the portions they believe to be critical.
@@ -107,7 +107,7 @@ Not everyone will be thrilled with the organizational change, but the beauty her
 
 ## Challenge 2: Ineffective or poorly-attended Agile Scrum team meetings
 
-The intent of adopting Agile is not to go through the motions of Agile ceremonies for the sake of doing so; the intent is to enable teams to choose which methods work best for them—equipped with different options and guidelines that can boost productivity depending on the situation—and let them move forward as they see fit. One of the core values of Agile is, "*responding to change* **over** *following a plan*". If there are too many meetings, meetings are too long, people aren’t attending, or the meetings aren’t productive, question the practices in place to ensure they’re the right fit for the team before taking any other actions. 
+The intent of adopting Agile is not to go through the motions of Agile ceremonies for the sake of doing so; the intent is to enable teams to choose which methods work best for them— equipped with different options and guidelines that can boost productivity depending on the situation— and let them move forward as they see fit. One of the core values of Agile is, "*responding to change* **over** *following a plan*". If there are too many meetings, meetings are too long, people aren’t attending, or the meetings aren’t productive, question the practices in place to ensure they’re the right fit for the team before taking any other actions. 
 
 ### Tips for Sprint Planning
 Using sprint planning as an example, the prevailing guidance for Scrum teams is generaly to hold planning once a sprint, timeboxed to eight hours per one-month sprint. That doesn’t mean sprint planning has to be eight hours long just because it can be, and certainly not if you’re running a shorter sprint cadence. If sprint planning has turned into a rote review of team tickets while the team itself sits silently by, work with your team to form a better communication strategy. 
@@ -133,7 +133,7 @@ Another common meeting is daily standup. This ceremony of Scrum keeps everyone o
 - If you have guests attending standup that aren’t on your team, are they aware that their role is that of an observer first?
 - Is everyone on the team able to get through their own standup items, and are tangents put on hold for follow-up after the entire team has gone? 
 
-When meetings become inefficient, remember that Agile Scrum ceremonies are for the benefit of—and owned by—the team. As such, the team always has the power to change their format.
+When meetings become inefficient, remember that Agile Scrum ceremonies are for the benefit of— and owned by— the team. As such, the team always has the power to change their format.
 
 ### Tips for maintaining engagement in Scrum team meetings
 
@@ -147,7 +147,7 @@ Setting expectations for participation is a critical step. Ignoring this can tur
 {: .text-green-100 }
 - **DO** plan an agenda, and stick to it
 {: .text-green-100 }
-- **CONSIDER** inviting only those necessary (notes may be shared with interested—but non-critical—parties)
+- **CONSIDER** inviting only those necessary (notes may be shared with interested— but non-critical— parties)
 {: .text-yellow-300 }
 - **AVOID** meetings that provide little-to-no team value
 {: .text-red-300 }
