@@ -49,7 +49,7 @@ Here’s a framework to guide the construction of a strong and viable business c
 
 - **Timeline:** What is the projected timeline of events and milestones?
 - **Up Front Contract:** The team member bringing forth the business case should state the purpose and outcome of the presentation upfront so that those listening know what the specific ask is. (i.e., inform, update, decide, feedback review, etc.). Make a clear request of the team— what is needed today?
-- **Vision Check:** Use VTO and culture to guide decisions. How does this tie back to vision and goals? Does it move the company closer to where it is going?
+- **Vision Check:** Use company vision, mission, and culture to guide decisions. How does this tie back to vision and goals? Does it move the company closer to where it is going?
 
 Business cases themselves are often highly specific and detailed, but the presentation of the information is usually set at a higher level. No matter which route is taken, know the audience and present the business case accordingly. More often than not, an executive audience will prefer brevity: direct communication of a plan without bells and whistles. If it is known that the executive team prefers supplemental information to review at their leisure, create a business case presentation with appendix slides at the end. If the more detail-oriented attendees have questions during the presentation, appendix slides can then be referenced as needed.
 
@@ -91,7 +91,7 @@ This meeting will communicate reasons for implementing agile practices, roles, a
 - Expectations for Communication: What, when, and how key information will be shared
 - Team Org Chart: Names and roles for all individuals involved in the rollout
 Project Artifacts: Links and shared resources the rollout team will need
-- Known Project Risks: Potential impediments and their planned mitigations
+- Known Project Risks: Potentiavtol impediments and their planned mitigations
 - Questions, Comments, and Actions: Feedback from the kickoff attendees
 
 4. **Put everything in writing, and share it with RACI groups via a central location**
