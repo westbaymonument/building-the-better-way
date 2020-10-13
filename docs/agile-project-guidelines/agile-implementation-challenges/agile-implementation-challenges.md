@@ -12,7 +12,7 @@ In many companies, it is often the case that the only practice that’s consiste
 
 What people forget in the aftermath is that the process doesn’t choose itself: companies create these environments, and make the decisions that lead to these results. The methodology chosen might not work out, but is it because the practices themselves are terrible, or because the wrong fit for a given project or company is implemented? Agile methodologies frequently become the scapegoat for any number of failures, and as a result, “Agile” is determined to be the problem. 
 
-Here, we aim to identify and explore the most common explanations companies give for Agile failing upon arrival, and uncover potential root causes for a company’s split from Agile. As mentioned earlier, no practice is truly consistent between organizations— it’s nearly impossible to drop any major operational change on a company and expect it to be implemented flawlessly without taking this into consideration. 
+Here, the aim is to identify and explore the most common explanations companies give for Agile failing upon arrival, and uncover potential root causes for a company’s split from Agile. As mentioned earlier, no practice is truly consistent between organizations— it’s nearly impossible to drop any major operational change on a company and expect it to be implemented flawlessly without taking this into consideration. 
 
 - TOC
 {:toc}
@@ -30,7 +30,7 @@ As agents of change for an organization’s shift to agile practices, it may fal
 
 Obtaining buy-in across all levels of an organization is critical to the success of adoption. Before rolling an Agile methodology out to a department or an entire company, teams must first roll up an overview of key benefits and pitch it to the powers that be. Any implementation of Agile won’t get very far without proper executive support. This may mean drafting a business case to present to department or company leadership on the benefits of an agile work environment, holding frank Q&A sessions with teams to help them better understand how their day-to-day might change, and/or involving the marketing and sales teams early to ensure their strategies are properly aligned with the chosen methodology.
 
-When pulling together any business case, the questions “Why?” and “How much?” are king. The bottom line is often the focus, so make sure it is understood how introducing agile practices to an organization will affect budget, productivity, and other projects currently underway, both in positive and negative ways. As in any appeal, take the time to understand the values, needs, and concerns of each team affected and structure your approach to each team in kind. For example, if the executive team is concerned about speed, tailor the business case to include ways in which an agile workforce can execute and provide gains to the business quickly.
+When pulling together any business case, the questions “Why?” and “How much?” are king. The bottom line is often the focus, so make sure it is understood how introducing agile practices to an organization will affect budget, productivity, and other projects currently underway, both in positive and negative ways. As in any appeal, take the time to understand the values, needs, and concerns of each team affected and structure the approach to each team in kind. For example, if the executive team is concerned about speed, tailor the business case to include ways in which an agile workforce can execute and provide gains to the business quickly.
 
 Here’s a framework to guide the construction of a strong and viable business case for Agile Transformation.
 
@@ -40,7 +40,7 @@ Here’s a framework to guide the construction of a strong and viable business c
 - **Recommendation:** What is the recommendation? When presenting a major change for consideration without a clear recommendation, the audience will not be clear on the request.
 - **Benefits:** What are the likely benefits? Again, based on what evidence and/or research from authoritative sources?
 - **Impact Analysis:** Who will be impacted if/when this recommendation is implemented? What are the anticipated impacts? What has been done to date to inform key stakeholders? Is there a financial impact? If so, how much?
-- **Opportunity/Problem:** Start with “Why?” Why is this important as it pertains to the vision and culture? What is the opportunity you see? Based on what evidence?
+- **Opportunity/Problem:** Start with “Why?” Why is this important as it pertains to the vision and culture? What is the opportunity? Based on what evidence?
 - **Organizational Readiness:** What is going on in the organization that may impede adoption of the recommendation? Is there anything that needs to happen first to increase the likelihood of success?
 - **Potential Risks:** What are the risks of recommendations being presented? (There are ALWAYS risks!)
 - **Resource Requirements:** What resources will be needed for this recommendation? (Budget, time, staffing, etc.)
@@ -51,12 +51,12 @@ Here’s a framework to guide the construction of a strong and viable business c
 - **Up Front Contract:** The team member bringing forth the business case should state the purpose and outcome of the presentation upfront so that those listening know what the specific ask is. (i.e., inform, update, decide, feedback review, etc.). Make a clear request of the team— what is needed today?
 - **Vision Check:** Use VTO and culture to guide decisions. How does this tie back to vision and goals? Does it move the company closer to where it is going?
 
-Business cases themselves are often highly specific and detailed, but the presentation of the information is usually set at a higher level. No matter which route you go, know your audience and tailor the presentation of your business case accordingly. More often than not, an executive audience will prefer brevity: direct communication of your plan without bells and whistles. If you know the executive team wants supplemental information to review at their leisure, create a business case presentation with appendix slides at the end. If some of your more detail-oriented attendees have questions during the presentation, you can jump down to these appendix slides as needed.
+Business cases themselves are often highly specific and detailed, but the presentation of the information is usually set at a higher level. No matter which route is taken, know the audience and present the business case accordingly. More often than not, an executive audience will prefer brevity: direct communication of a plan without bells and whistles. If it is known that the executive team prefers supplemental information to review at their leisure, create a business case presentation with appendix slides at the end. If the more detail-oriented attendees have questions during the presentation, appendix slides can then be referenced as needed.
 
 With these thoughts in mind, take note: *Nothing will kill the adoption of Agile— or any major organizational shift— faster than a poorly-executed and under-communicated rollout*, regardless of a company’s size or distribution. Not only will a failed Agile rollout flatten any present efforts, but it will likely poison the well for future attempts.
 
-### Up your communication rollout game
-Do you remember the game Telephone? One person thinks of a phrase and whispers it to the next person in a line, and so on until the last person in the line relates the phrase as he or she heard it. More often than not, the phrase is distorted, and frequently into something not even remotely resembling the original. More devious participants may intentionally change the statement into something they prefer instead *(for shame!)*. Others may just forget portions of the phrase and pass on only what they remember, or paraphrase and include only the portions they believe to be critical.
+### Up that communication rollout game
+Many remember the game Telephone from childhood: one person thinks of a phrase and whispers it to the next person in a line, and so on until the last person in the line relates the phrase as he or she heard it. More often than not, the phrase is distorted, and frequently into something not even remotely resembling the original. More devious participants may intentionally change the statement into something they prefer instead *(for shame!)*. Others may just forget portions of the phrase and pass on only what they remember, or paraphrase and include only the portions they believe to be critical.
 
 Many encounter this exact scenario in their careers: A plan is delivered to a small group from on high, which cascades down as gospel delivered from person to person throughout the company. Department leads may not share the message because they’re on vacation and forget, or they may change the message to suit their own initiatives, omitting parts with which they don’t agree. Others may paraphrase in an attempt to be helpful and succinct, which can lead to loss of valuable contextual information.
 
@@ -103,18 +103,18 @@ In addition, make sure to do the following:
 
 All of this to say *own these communications*. Make them *clear, consistent, controlled, and centrally-located*. By controlling the message and sharing it broadly, the risk of the “Telephone effect” impacting an Agile implementation rollout is sure to be significantly reduced.
 
-Not everyone will be thrilled with the organizational change, but the beauty here is that not everyone *has* to be thrilled. The team's role as an agent of change isn’t to please everyone, but to *guide everyone through efficiently and effectively*. Not everyone takes to a change of environment, and there’s only so much to be done in that situation. *Understand what you can control, and manage that.* As long as your plan for introducing Agile takes into consideration the needs of the different levels of your organization, and provides clear expectations for each of these levels, the fundamentals for success are in place.
+Not everyone will be thrilled with the organizational change, but the beauty here is that not everyone *has* to be thrilled. The team's role as an agent of change isn’t to please everyone, but to *guide everyone through efficiently and effectively*. Not everyone takes to a change of environment, and there’s only so much to be done in that situation. *Understand what can be controlled, and manage that.* As long as the plan for introducing Agile takes into consideration the needs of the different levels of a given organization, and provides clear expectations for each of these levels, the fundamentals for success are in place.
 
 ## Challenge 2: Ineffective or poorly-attended Agile Scrum team meetings
 
 The intent of adopting Agile is not to go through the motions of Agile ceremonies for the sake of doing so; the intent is to enable teams to choose which methods work best for them— equipped with different options and guidelines that can boost productivity depending on the situation— and let them move forward as they see fit. One of the core values of Agile is, "*responding to change* **over** *following a plan*". If there are too many meetings, meetings are too long, people aren’t attending, or the meetings aren’t productive, question the practices in place to ensure they’re the right fit for the team before taking any other actions. 
 
 ### Tips for Sprint Planning
-Using sprint planning as an example, the prevailing guidance for Scrum teams is generaly to hold planning once a sprint, timeboxed to eight hours per one-month sprint. That doesn’t mean sprint planning has to be eight hours long just because it can be, and certainly not if you’re running a shorter sprint cadence. If sprint planning has turned into a rote review of team tickets while the team itself sits silently by, work with your team to form a better communication strategy. 
+Using sprint planning as an example, the prevailing guidance for Scrum teams is generaly to hold planning once a sprint, timeboxed to eight hours per one-month sprint. That doesn’t mean sprint planning has to be eight hours long just because it can be, and certainly not if running a shorter sprint cadence. If sprint planning has turned into a rote review of team tickets while the team itself sits silently by, work with the team to form a better communication strategy. 
 
 **CONSIDER** the following:
 {: .text-yellow-300 }
-- What does your team actually need to get out of sprint planning? 
+- What does the team actually need to get out of sprint planning? 
 - Would time be better spent in advance breaking down features, either solo or in one-on-one conversations? 
 - What format works best for the team, while providing the necessities to work successfully? 
 - If the team and project don’t require the boundaries of set sprints, why follow Scrum? Why not consider a more flexible Kanban (pull-based) workflow? 
@@ -127,10 +127,10 @@ Another common meeting is daily standup. This ceremony of Scrum keeps everyone o
 
 **CONSIDER** the following:
 {: .text-yellow-300 } 
-- Does your standup have a set agenda? 
+- Does the standup meeting have a set agenda? 
 - If so, is someone on the team ensuring that agenda is followed? 
 - How many people are attending standup? 
-- If you have guests attending standup that aren’t on your team, are they aware that their role is that of an observer first?
+- If guests are attending standup that aren’t on the team, are they aware that their role is that of an observer first?
 - Is everyone on the team able to get through their own standup items, and are tangents put on hold for follow-up after the entire team has gone? 
 
 When meetings become inefficient, remember that Agile Scrum ceremonies are for the benefit of— and owned by— the team. As such, the team always has the power to change their format.
