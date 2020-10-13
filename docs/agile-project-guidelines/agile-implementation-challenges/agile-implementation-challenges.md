@@ -110,7 +110,7 @@ Not everyone will be thrilled with the organizational change, but the beauty her
 The intent of adopting Agile is not to go through the motions of Agile ceremonies for the sake of doing so; the intent is to enable teams to choose which methods work best for them— equipped with different options and guidelines that can boost productivity depending on the situation— and let them move forward as they see fit. One of the core values of Agile is, "*responding to change* **over** *following a plan*". If there are too many meetings, meetings are too long, people aren’t attending, or the meetings aren’t productive, question the practices in place to ensure they’re the right fit for the team before taking any other actions. 
 
 ### Tips for Sprint Planning
-Using sprint planning as an example, the prevailing guidance for Scrum teams is generaly to hold planning once a sprint, timeboxed to eight hours per one-month sprint. That doesn’t mean sprint planning has to be eight hours long just because it can be, and certainly not if running a shorter sprint cadence. If sprint planning has turned into a rote review of team tickets while the team itself sits silently by, work with the team to form a better communication strategy. 
+Using sprint planning as an example, the prevailing guidance for Scrum teams is generally to hold planning once a sprint, timeboxed to eight hours per one-month sprint. That doesn’t mean sprint planning has to be eight hours long just because it can be, and certainly not if running a shorter sprint cadence. If sprint planning has turned into a rote review of team tickets while the team itself sits silently by, work with the team to form a better communication strategy. 
 
 **CONSIDER** the following:
 {: .text-yellow-300 }
