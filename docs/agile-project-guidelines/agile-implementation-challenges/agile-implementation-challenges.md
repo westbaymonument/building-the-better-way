@@ -91,7 +91,7 @@ This meeting will communicate reasons for implementing agile practices, roles, a
 - Expectations for Communication: What, when, and how key information will be shared
 - Team Org Chart: Names and roles for all individuals involved in the rollout
 Project Artifacts: Links and shared resources the rollout team will need
-- Known Project Risks: Potentiavtol impediments and their planned mitigations
+- Known Project Risks: Potential impediments and their planned mitigations
 - Questions, Comments, and Actions: Feedback from the kickoff attendees
 
 4. **Put everything in writing, and share it with RACI groups via a central location**
