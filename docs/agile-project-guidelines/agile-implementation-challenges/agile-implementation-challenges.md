@@ -84,26 +84,26 @@ Making an email list and firing off messages in an uncoordinated frenzy about th
 
 This meeting will communicate reasons for implementing agile practices, roles, and responsibilities, and team member expectations for execution. Review the following items, at minimum. Typically, this is pulled together into a short slide deck and shared in an all-hands for the project team:
 
-- Project History: Background and reasons behind the rollout initiative
-- Project Objectives and Goals: Desired purpose and outcomes of the rollout
-- High-Level Scope: Outline of work to be done to support the rollout
-- Timeline and Milestones: When the work can be expected, and by which deadlines
-- Expectations for Communication: What, when, and how key information will be shared
-- Team Org Chart: Names and roles for all individuals involved in the rollout
-Project Artifacts: Links and shared resources the rollout team will need
-- Known Project Risks: Potential impediments and their planned mitigations
-- Questions, Comments, and Actions: Feedback from the kickoff attendees
+- **Project History**: Background and reasons behind the rollout initiative
+- **Project Objectives and Goals**: Desired purpose and outcomes of the rollout
+- **High-Level Scope**: Outline of work to be done to support the rollout
+- **Timeline and Milestones**: When the work can be expected, and by which deadlines
+- **Expectations for Communication**: What, when, and how key information will be shared
+- **Team Org Chart**: Names and roles for all individuals involved in the rollout
+- **Project Artifacts**: Links and shared resources the rollout team will need
+- **Known Project Risks**: Potential impediments and their planned mitigations
+- **Questions, Comments, and Actions**: Feedback from the kickoff attendees
 
 4. **Put everything in writing, and share it with RACI groups via a central location**
 In addition, make sure to do the following:
 
 - Send a copy of any kickoff materials (slide decks, other vital documentation, etc.) out immediately after the kickoff to all attendees
 - Ensure document storage locations are noted in the Project Artifacts section of the kickoff materials; these could be Google Drive, OneDrive, Sharepoint, Box, or another shared on-premises or cloud document storage solution 
-- If an organization uses multiple document management solutions, pick one location only to minimize confusion, unless otherwise required by the company
+- If an organization uses multiple document management solutions, work with your company to select the preferred document storage solution and file location
 
 All of this to say *own these communications*. Make them *clear, consistent, controlled, and centrally located*. By controlling the message and sharing it broadly, the risk of the “Telephone effect” impacting an Agile implementation rollout is sure to be significantly reduced.
 
-Not everyone will be thrilled with the organizational change, but the beauty here is that not everyone *has* to be thrilled. The team's role as an agent of change isn’t to please everyone, but to *guide everyone through efficiently and effectively*. Not everyone takes to a change of environment, and there’s only so much to be done in that situation. *Understand what can be controlled, and manage that.* As long as the plan for introducing Agile takes into consideration the needs of the different levels of a given organization, and provides clear expectations for each of these levels, the fundamentals for success are in place.
+Not everyone will be thrilled with the organizational change, but the beauty here is that not everyone *has* to be thrilled. The goal isn’t to please everyone, but to *guide everyone through efficiently and effectively*. Not everyone takes to a change of environment, and there’s only so much to be done in that situation. *Understand what can be controlled, and manage that.* As long as the plan for introducing Agile takes into consideration the needs of the different levels of a given organization, and provides clear expectations for each of these levels, the fundamentals for success are in place.
 
 ## Challenge 2: Ineffective or poorly-attended Agile Scrum team meetings
 
